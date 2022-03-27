@@ -1,6 +1,6 @@
 <?php
 session_start();
-$ROOT_URL = "http://localhost/du_an_flamingo";
+$ROOT_URL = "http://localhost/duan1/du_an_1";
 $CONTENT_URL = "$ROOT_URL/Content";
 $LAYOUT_URL = "$ROOT_URL/Layout";
 $ADMIN_URL = "$ROOT_URL/Admin";
